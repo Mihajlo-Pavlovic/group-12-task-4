@@ -26,7 +26,6 @@ def is_satisfied_witness(a, b, c):
 def gen_constraints():
     # Prove that we know (x, y, z) such that x^2 + y^2 = z^2
 
-    # init constraints
     Ql = []
     Qr = []
     Qm = []
